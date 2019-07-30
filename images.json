@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Gray Lines",
+        "image": "http://www.liberaldictionary.com/wp-content/uploads/2018/12/patterns.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pink Boxes",
+        "image": "https://rawpixel-live.imgix.net/collection/cover/screen_shot_2017-09-14_at_3.14.10_pm.png?w=350&h=350&dpr=1&fit=crop&crop=faces&auto=format&fm=pjpg&q=75&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-1.1.1&s=e489dff0b8a25d7a866c8e5db9b2a465"
+    },
+    {
+        "id": 3,
+        "name": "Flowers and Stripes",
+        "image": "https://www.spartina449.com/media/wysiwyg/SS19/Patterns/SS19-28ShelterCove_1.png"
+    },
+    {
+        "id": 4,
+        "name": "Zig-zags",
+        "image": "http://kismettile.com/wp/wp-content/uploads/2012/02/TUXEDO2_6x6.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Blue Tile",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Igreja_de_Campanha_Azulejo_4.jpg/300px-Igreja_de_Campanha_Azulejo_4.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Colorful Shapes",
+        "image": "http://hivesociety.weebly.com/uploads/8/4/5/6/8456920/6694465.png"
+    },
+    {
+        "id": 7,
+        "name": "Floral",
+        "image": "https://bonniechristine.com/wp-content/uploads/2018/01/2.png"
+    },
+    {
+        "id": 8,
+        "name": "Paisley",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Persian_Silk_Brocade_-_Paisley_-_Persian_Paisley_-_Seyyed_Hossein_Mozhgani_-_1963.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Geometric White",
+        "image": "https://d39l2hkdp2esp1.cloudfront.net/img/eps/E3926_2x/c/E3926_01.jpg?20171215015747"
+    },
+    {
+        "id": 10,
+        "name": "Circles",
+        "image": "https://faroutadventures.files.wordpress.com/2013/05/pattern-bikewheel.png"
+    },
+    {
+        "id": 11,
+        "name": "Quilts",
+        "image": "https://cdn.shopify.com/s/files/1/2197/5951/products/MeadowLane54x54Primrose_grande.jpg?v=1556215686"
+    },
+    {
+        "id": 12,
+        "name": "Oranges",
+        "image": "https://payload.cargocollective.com/1/19/623748/12423731/sannyvanloon_patterns_oranges_800.jpg"
+    }
+]
